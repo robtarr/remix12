@@ -1,7 +1,7 @@
 Remix South 2012
 =======
 
-##Slides from my Responsive JavaScript presentation
+##Slides and links from my Responsive JavaScript presentation
 ### [Rob Tarr](http://twitter.com/robtarr), [Sparkbox](http://seesparkbox.com)
 
 ### Resources
