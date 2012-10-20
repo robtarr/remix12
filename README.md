@@ -1,8 +1,8 @@
 remix12
 =======
 
-#Slides from my Responsive JavaScript presentation
-# [Rob Tarr](http://twitter.com/robtarr), [Sparkbox](http://seesparkbox.com)
+##Slides from my Responsive JavaScript presentation
+### [Rob Tarr](http://twitter.com/robtarr), [Sparkbox](http://seesparkbox.com)
 
 ### Resources
 * [The Boston Globe](http://www.bostonglobe.com)
