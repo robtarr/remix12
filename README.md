@@ -1,12 +1,8 @@
 remix12
 =======
 
-Slides from my Responsive JavaScript presentation
-
-# Build Responsively Workshop
-## [Ben Callahan](http://twitter.com/bencallahan), [Sparkbox](http://seesparkbox.com)
-
-The files in this repo are example exercises used in the Build Responsively Workshop series. Following is a list of resources for learning more about responsive web design.
+#Slides from my Responsive JavaScript presentation
+# [Rob Tarr](http://twitter.com/robtarr), [Sparkbox](http://seesparkbox.com)
 
 ### Resources
 * [The Boston Globe](http://www.bostonglobe.com)
