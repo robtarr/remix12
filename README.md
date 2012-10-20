@@ -1,4 +1,4 @@
-remix12
+Remix South 2012
 =======
 
 ##Slides from my Responsive JavaScript presentation
