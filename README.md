@@ -18,7 +18,6 @@ Remix South 2012
 * [QuickConcat](https://github.com/filamentgroup/quickconcat)
 * [Conditional Loading for Responsive Designs](http://24ways.org/2011/conditional-loading-for-responsive-designs)
 * [eCSSential](http://github.com/scottjehl/eCSSential)
-
 * [Fixed-Fixed](http://scottjehl.github.com/fixed-fixed)
 * [Fixed-Fixed Bugs](http://github.com/scottjehl/Device-Bugs/issues/1)
 * [iOS Orientation Change](https://github.com/scottjehl/iOS-Orientationchange-Fix)
